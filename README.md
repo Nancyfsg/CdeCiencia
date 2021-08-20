@@ -13,14 +13,16 @@
 <p align= justify>
  Para abordar el tema principal, es necesario tener conceptos que seran la clave para una comprensión idónea. 
 <br>
-Iniciaremos con la definición de la microbiología, la cual es el estudio de los microorganismos y sus actividades, además de su forma, estructura, fisiología, reproducción, metabolismo etc. Su objetivo principal es comprender las reacciones que pueden ser buenas o malas en un húesped, haciendo que  se busque una forma de aumentar los beneficios y disminuir los daños que este provocan.
+La microbiología es el estudio de los microorganismos su forma, estructura, fisiología, reproducción, metabolismo etc. 
+ <br>
+ Su objetivo principal es comprender las reacciones que pueden ser buenas o malas en un húesped, haciendo que  se busque una forma de aumentar los beneficios y disminuir los daños que este provocan.
  <br>
 
                                                                <Center> <i>    ¿qué es un patógeno?       </i>       </Center>  
 
 <br>
-Bueno, estos pequeños amiguitos nuestros son unos súper agentes infecciosos que nos pueden provocar  diferentes enfermedades en nuestro cuerpo.
-Así como existen diferentes tipos de helado, también hay diferentes tipos de patógenos como las siguientes:</p>
+Estos pequeños amiguitos son unos súper agentes infecciosos que pueden provocar  diferentes enfermedades en el cuerpo.
+Existen diferentes tipos de patógenos como las siguientes:</p>
 <br>
   <br>
 <li>Bacterias: son procariotas, lo que quiere decir que tienen una membrana celular y  tienen una forma esférica o cilíndrica.</li>
@@ -28,46 +30,43 @@ Así como existen diferentes tipos de helado, también hay diferentes tipos de p
    
   <br>
   <br>
-<li> Parásitos: Pueden ser uni o multicelulares, pequeños microorganismos necesitan de un huésped para sobrevivir, además que su modo de reproducirse es de manera sexual y asexual.</li>
+<li> Parásitos: pueden ser uni o multicelulares, pequeños microorganismos necesitan de un huésped para sobrevivir, además que su modo de reproducirse es de manera sexual y asexual.</li>
 <img src="parasitos.jpg" width=200>
   <br>
   <br>
-<li> Virus: son organismos infecciosos  los cuales no son considerados células y que al igua que los parásitos, necesitan d un húesped para sobrevivir. Esta compuesto por ADN y ARN.</li>
+<li> Virus: son organismos infecciosos que no son considerados células y que al igual que los parásitos, necesitan de un húesped para sobrevivir. Esta compuesto por ADN y ARN.</li>
   <img src="Virus.JPG" width=200>
   <br>
  
-<li>Hongos: Son eucariotas, causan infecciones a nivel superficial o profundo. También como los parásitos, pueden ser  uni o multicelulares ya que son seres heterótrofos; su forma de reproducirse es por medio de esporas.</li>
+<li>Hongos: son eucariotas, causan infecciones a nivel superficial o profundo. También como los parásitos, pueden ser  uni o multicelulares denominandolos seres heterótrofos; su forma de reproducirse es por medio de esporas.</li>
     <img src="Hongo.JPG" width=200>
   <br>
 <br>
 
-Un panel de patógenos respiratorios (también llamado perfil PR) busca si hay patógenos en las vías respiratorias, que recordemos que el sistema respiratorio son  las partes del cuerpo que participan en la respiración, incluyendo pulmones, nariz y garganta.
+Un panel de patógenos respiratorios (también llamado perfil PR) busca si hay patógenos en el sistema respiratorio.
 
-Teniendo esto en cuenta, vamos a empezar con la problemática que hemos abordado.
 Actualmente, el mundo experimenta un desafío sanitario de gran envergadura, que exige hasta el extremo las estructuras sanitarias, productivas y sociales en todo el mundo.[1]
 <br>
 La coinfección por dos o más patógenos respiratorios comunes podría dificultar un diagnóstico de recuperación de la infección producida por el virus SARS-CoV-2.
   <br>
-Es por ello que nos vamos a enfocar en dar posibles soluciones y contribuir a uno de los 17 Objetivos de Desarrollo Sostenible (ODS) pertenecientes a la Organización de las Naciones Unidas(ONU). 
+Es por ello que se proponen diferentes tipos de posibles soluciones que ayuden a contribuir a uno de los 17 Objetivos de Desarrollo Sostenible (ODS) pertenecientes a la Organización de las Naciones Unidas(ONU). 
  <br>
-  Pero tú que estás leyendo esto te preguntarás, <i>¿Cómo relacionan el tercer objetivo: SALUD Y BIENESTAR con la coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad en pacientes con COVID-19?</i> [2][3]. 
+ <i>¿Cómo relacionan el tercer objetivo: SALUD Y BIENESTAR con la coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad en pacientes con COVID-19?</i> [2][3]. 
   <br>
-Sencillo. Este tercer objetivo tiene como fin garantizar una vida sana y promover el bienestar para todos en todas las edades y es que actualmente, estamos viviendo una crisis mundial trayendo consigo el sufrimiento en el cambio radical en nuestras vidas.
-Para la organización mundial de la salud (OMS) y la Organización de las naciones Unidas, la COVID-19 es una emergencia sanitaria causada por un pequeño patógeno, entonces teniendo esto en cuenta, este proyecto busca tener enfoque en disminuir la tasa de mortalidad por COVID-19.[4]
+Este tercer objetivo tiene como fin garantizar una vida sana y promover el bienestar para todos en todas las edades en esta crisis mundial que trae consigo el sufrimiento y muchas cadenas de consecuencias.
+Para la organización mundial de la salud (OMS) y la Organización de las naciones Unidas, la COVID-19 es una emergencia sanitaria causada por un pequeño patógeno, es por ello que este proyecto busca tener enfoque en disminuir la tasa de mortalidad por COVID-19.[4]
+  <br>
+<i>¿Quién pensaría que un pequeño microorganismo fue capaz de hacer una pandemia que llevaría a confinarnos hasta la actualidad?</i>
+  Es allí donde las grandes consecuencias de los pequeños patógenos.
 
 <br>
-Es curioso, porque es cierto el nombre de nuestro club: "Las grandes consecuencias de los pequeños patógenos". 
-<i>¿Quién pensaría que un pequeño microorganismo fue capaz de hacer una pandemia que llevaría a confinarnos hasta la actualidad?</i>
-
-Es ahí donde esos pequeños patógenos son de gran importancia y como jóvenes debemos tenemos esa curiosidad por ayudar a la ciencia a resolver uno de los 17 ODS.
   <img src="ODS.png">
 
 
   <h3><b> Métodología </b> </h3>
 
-Cada vez que empezamos un proyecto, siempre viene con nosotros aquellas preguntas sobre: <i>¿Que problématica me es interesante?,¿Cómo afecta esa problemática a nuestra sociedad?,¿Que han hecho ante tal problematica?,¿De dónde se obtendrá información para completar el proyecto?, ¿Quiénes serán los beneficiarios del proyecto?</i>, por nombrar algunas preguntas.
 
-Para nosotros, eso fue la base primordial para la elección de un proyecto. Nos hemos basado en seguir los siguientes pasos de manera cronológica:
+La base primordial para la elección de un proyecto es basado en seguir los siguientes pasos de manera cronológica:
   <br>
  
  <li>Seleccionar un tema.</li>

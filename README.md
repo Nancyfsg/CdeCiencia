@@ -206,14 +206,16 @@ Med Clin (Barc) 2020 Jul 10; 155(1): 36–40. Spanish. Published online 2020 Apr
 [10] Zhu, X. (2020, 1 agosto). Co-infection with respiratory pathogens among COVID-2019 cases. ScienceDirect. https://www.sciencedirect.com/science/article/abs/pii/S0168170220303531?dgcid=rss_sd_all
 
  
-<h4><b>Equipo 14_C</b></h4>
+  <h4><b>Equipo 14_C : <i>Fungi amigos</i></b></h4>
 
    Nancy Solís Grajales.
   <br>
-  Estudiante de ingeniería biomédica,UPCH.
+  <i>Estudiante de ingeniería biomédica,UPCH.</i>
   <br>
  Lilián Michelle Lopez Carrasco
   <br>
- Estudiante de 5to semestre del colegio Cristóbal Colón,Veracruz.
+  <i>Estudiante de 5to semestre del colegio Cristóbal Colón,Veracruz.</i>
+  <img src="Fungi amigos..jpeg" width=200>
+  
  </body>
 </html>

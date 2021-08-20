@@ -95,7 +95,7 @@ Para nosotros, eso fue la base primordial para la elección de un proyecto. Nos 
 
   <h3><b> Antecedentes.</b></h3>
 La COVID-19 es una enfermedad causada por un virus de la familia de los coronavirus que fue descubierto a finales de noviembre de 2019 en Wuhan, China.
-El SARS-CoV2 entra en las células de los alveolos (los neumocitos) y utiliza el contenido que haydentro de ellas para multiplicarse de forma masiva, hasta matar a la célula en la que se encuentra. Al multiplicarse, el virus acaba con estos neumocitos y por eso se dificulta mucho el trabajo que deben realizar en cada inspiración para que el oxígeno llegue a la sangre y se reparta a todos los órganos del cuerpo.
+El SARS-CoV2 entra en las células de los alveolos (los neumocitos) y utiliza el contenido que hay dentro de ellas para multiplicarse de forma masiva, hasta matar a la célula en la que se encuentra. Al multiplicarse, el virus acaba con estos neumocitos y por eso se dificulta mucho el trabajo que deben realizar en cada inspiración para que el oxígeno llegue a la sangre y se reparta a todos los órganos del cuerpo.
 La destrucción de los alveolos genera una respuesta de nuestro sistema de defensa en forma de inflamación.
 <br>
 La mortalidad de los pacientes infectados con COVID-19 suele estar alrededor del 5% y, en pacientes hospitalizados, la mortalidad puede llegar al 30%. 
@@ -106,6 +106,8 @@ La mortalidad de los pacientes infectados con COVID-19 suele estar alrededor del
 Se han realizado varios trabajos que estudian la efectividad de las tomografías computarizadas en la detección y prueba de COVID-19 y los resultados son prometedores. 
   <br>
  Sin embargo, debido a problemas de privacidad, las tomografías computarizadas utilizadas en estos trabajos no se comparten con el público. Esto dificulta enormemente la investigación y el desarrollo de métodos de IA más avanzados para realizar pruebas más precisas de COVID-19 basadas en CT.
+  
+  
 Objetivo principal: Evaluar la frecuenciade recuperación por  coinfección con patógenos respiratorios bacterianos y virales detectados en  mediante algoritmos de estimación de la dimensión fractal de las imagenes de tomografía computarizada (CT) en pulmones de personas con COVID-19.
 
 

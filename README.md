@@ -1,5 +1,5 @@
 <html>
-
+<body style="background-color:rgb(144,206,200);">
  <h1><font face="Courier New"> <i>    Las grandes consecuencias de los pequeños patógenos    </i></font ></h1>
  
  <link rel="shortcut icon" href="/static/img/favicon-32x32.png" type="image/x-icon">

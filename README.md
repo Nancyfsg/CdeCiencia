@@ -1,6 +1,6 @@
 <html>
 
- <h1><font face="Repart One"> <i>    Las grandes consecuencias de los pequeños patógenos    </i></font ></h1>
+ <h1><font face="Rampart One"> <i>    Las grandes consecuencias de los pequeños patógenos    </i></font ></h1>
  
  <link rel="shortcut icon" href="/static/img/favicon-32x32.png" type="image/x-icon">
  <br>

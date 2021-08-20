@@ -18,9 +18,9 @@
 <meta property="og:locale" content="en_US" />
 <link rel="canonical" href="https://nancyfsg.github.io/CdeCiencia/" />
 <meta property="og:url" content="https://nancyfsg.github.io/CdeCiencia/" />
-<meta property="og:site_name" content="CdeCiencia" />
+
 <meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="CdeCiencia" />
+
 <script type="application/ld+json">
 {"url":"https://nancyfsg.github.io/CdeCiencia/","@type":"WebSite","headline":"CdeCiencia","name":"CdeCiencia","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->

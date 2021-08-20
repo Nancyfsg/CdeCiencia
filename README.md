@@ -145,7 +145,8 @@ Sin embargo, el excel de nuestro mayor interés es el de los pacientes positivos
   
 
 Después de tener a nuestra disposición la base de datos, se procedió a calcular la dimensión fractal de nuestros pulmones sanos y pulmones dañados con una programación en Matlab la cuál fue desarrollado por el Doctor Omar Alejandro Olvera Guerrero quien tiene un posgrado en Ciencias y Tecnologías de la Información. Él impartió la materia de procesamiento de señales biomédicas  en la Universidad Politécnica de Chiapas y fue allí donde explicó la importancia del cálculo de las dimensaiones fractales aportados a las ciencias médicas.
-
+  <br>
+El código y los archivos excel, se encuentran en el repositorio siguiente: "https://github.com/Nancyfsg/CdeCiencia".
   
 
 
@@ -180,10 +181,13 @@ Pacientes quienes de acuerdo a su descripción mostraron ser asintomáticos, la 
   <br>
 <h3><b>Conclusiones </b></h3>
 
-A nuestra consideración como equipo y como antes se explicó, podría existir una posibilidad de hacer notar una mejoría hacia la recuperación del paciente y poder observar también un posible grado de mortalidad, esto de acuerdo a la comparación del promedio de las pruebas de pulmón con covid. Con esto, se podría comprobar la hipótesis el cual, si la DF de la imagen es mayor al del promedio, podría estar en una situación severa, ya que los alveolos estarían  llenos de flujos provocando que sean propensos a nuevos patógenos respiratorios como: neumonía,  y se obtendría una frecuencia respiratoria baja, en caso contrario, existe una recuperación y tendríamos a nuestros alveolos débiles provocando una frecuencia respiratoria mucho más inestable.
-Por último, debemos de tomar en cuenta de que para hacer una amplia investigación deberíamos comprobar las imágenes con los diferentes equipos pertenecientes al gabinete de imagenología y de laboratorio, ya que no debemos descartar ciertos posibles diagnósticos porque cada uno muestra diferentes resultados y hacen un mejor diagnóstico.
+A nuestra consideración como equipo y como antes se explicó, podría existir una posibilidad de hacer notar una mejoría hacia la recuperación del paciente y poder observar también un posible grado de mortalidad, esto de acuerdo a la comparación del promedio de las pruebas de pulmón con covid. 
+  <br>
+  Con esto, se podría comprobar la hipótesis y concluyendo que, si la DF de la imagen es mayor al del promedio, podría estar en una situación severa, ya que los alveolos estarían  llenos de flujos provocando que sean propensos a nuevos patógenos respiratorios como: neumonía  entre otras infecciones respiratorias provocando riesgo de sufrir más complicaciones. 
+  
 
-Hay que agregar que el cálculo de las dimensiones fractales en las ciencias médicas aún no es un campo completamente amplio, por lo que se sugiere seguir investigando y probando diferentes métodos para poder obtener mejores resultados.
+Hay que agregar que el cálculo de las dimensiones fractales en las ciencias médicas mediante muestras de tomografías aún no es un campo completamente amplio porque podemos tener una aproximación en cuanto a la probabilidad de que lo que estamos viendo sea coninfecciones de infecciones respiratorias a consecuencia del SARS-COV-2 o también que nuestras tomas no sean completamente clara a causa de opacidad focal, tenue, aumento de densidad difuso tenue y sea inapropiado para utilizarlo con la DF; por lo que se sugiere seguir investigando y probando diferentes métodos químicos o del gabinete de imagenología ya que no debemos descartar ciertos posibles diagnósticos porque cada uno muestra diferentes resultados desde sus diferentes perspectivas y con ello tendríamos mejores cuadros clínicos.
+ 
 
 <h3><b>Referencias bibliográficas.</b></h3>
 [1] Cruz, M. P., Santos, E., Cervantes, M. V., & Juárez, M. L. (2021). COVID-19, una emergencia de salud pública mundial. Revista Clínica Española, 221(1), 55-61.

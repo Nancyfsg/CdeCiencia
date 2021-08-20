@@ -17,15 +17,12 @@ La microbiología es el estudio de los microorganismos su forma, estructura, fis
  <br>
  Su objetivo principal es comprender las reacciones que pueden ser buenas o malas en un húesped, haciendo que  se busque una forma de aumentar los beneficios y disminuir los daños que este provocan.
  <br>
-
-                                                               <Center> <i>    ¿qué es un patógeno?       </i>       </Center>  
-
+                      <Center> <i>    ¿qué es un patógeno?       </i>       </Center>  
 <br>
 Estos pequeños amiguitos son unos súper agentes infecciosos que pueden provocar  diferentes enfermedades en el cuerpo.
-Existen diferentes tipos de patógenos como las siguientes:</p>
+Existen diferentes tipos:</p>
 <br>
-  <br>
-<li>Bacterias: son procariotas, lo que quiere decir que tienen una membrana celular y  tienen una forma esférica o cilíndrica.</li>
+<li>Bacterias: son procariotas, es decir tienen una membrana celular y  tienen una forma esférica o cilíndrica.</li>
   <img src="Bacterias.JPG" width=200>
    
   <br>
@@ -33,18 +30,16 @@ Existen diferentes tipos de patógenos como las siguientes:</p>
 <li> Parásitos: pueden ser uni o multicelulares, pequeños microorganismos necesitan de un huésped para sobrevivir, además que su modo de reproducirse es de manera sexual y asexual.</li>
 <img src="parasitos.jpg" width=200>
   <br>
-  <br>
 <li> Virus: son organismos infecciosos que no son considerados células y que al igual que los parásitos, necesitan de un húesped para sobrevivir. Esta compuesto por ADN y ARN.</li>
   <img src="Virus.JPG" width=200>
   <br>
- 
 <li>Hongos: son eucariotas, causan infecciones a nivel superficial o profundo. También como los parásitos, pueden ser  uni o multicelulares denominandolos seres heterótrofos; su forma de reproducirse es por medio de esporas.</li>
     <img src="Hongo.JPG" width=200>
   <br>
 <br>
 
 Un panel de patógenos respiratorios (también llamado perfil PR) busca si hay patógenos en el sistema respiratorio.
-
+<br>
 Actualmente, el mundo experimenta un desafío sanitario de gran envergadura, que exige hasta el extremo las estructuras sanitarias, productivas y sociales en todo el mundo.[1]
 <br>
 La coinfección por dos o más patógenos respiratorios comunes podría dificultar un diagnóstico de recuperación de la infección producida por el virus SARS-CoV-2.
@@ -66,7 +61,7 @@ Para la organización mundial de la salud (OMS) y la Organización de las nacion
   <h3><b> Métodología </b> </h3>
 
 
-La base primordial para la elección de un proyecto es basado en seguir los siguientes pasos de manera cronológica:
+La base primordial para la elección del proyecto fue basado en seguir los siguientes pasos de manera cronológica:
   <br>
  
  <li>Seleccionar un tema.</li>
@@ -89,8 +84,6 @@ La base primordial para la elección de un proyecto es basado en seguir los sigu
    
 <li>Hacer un vídeo.</li>
    <br>
-
-
 
 
   <h3><b> Antecedentes.</b></h3>
@@ -116,12 +109,12 @@ Los pacientes que muestran una dimensión fractal más alto del promedio de un p
 
 
 <h3><b>Comprobación de la hipotésis.</b></h3>
-Para comprobar nuestra hipotésis, hemos trabajado con una base de datos extraída de "Towards data science" llamada: COVID-CT-Dataset: A CT Scan Dataset about COVID-19. En la cual, fomenta la investigación de la IA en el uso de las CT para combatir la COVID-19.[6]
+Para comprobar dicha hipotésis, se trabajo con una base de datos extraída de "Towards data science" llamada: COVID-CT-Dataset: A CT Scan Dataset about COVID-19. En la cual, fomenta la investigación de la IA en el uso de las CT para combatir la COVID-19.[6]
 La base de datos contiene 349 tomografías  computarizadas  de pulmones positivas para COVID-19 y 396 muestras de pulmones sanos, ambas tienen su correspondiente archivo excel.[7]
   <br>
   <img src="ct covid.JPG">
   <br>
-Sin embargo, el excel de nuestro mayor interés es el de los pacientes positivos a SARS-COV-2, ya que en él se encuentran datos esenciales para nuestra investigación tales como:
+Sin embargo, el excel fue un mayor interés es el de los pacientes positivos a SARS-COV-2, ya que en él se encuentran datos esenciales para definir clasificaciones dentro de la investigación:
   <br>
   <br>
 1.Número de dentificación del paciente.
@@ -143,16 +136,16 @@ Sin embargo, el excel de nuestro mayor interés es el de los pacientes positivos
   <br>
   
 
-Después de tener a nuestra disposición la base de datos, se procedió a calcular la dimensión fractal de nuestros pulmones sanos y pulmones dañados con una programación en Matlab la cuál fue desarrollado por el Doctor Omar Alejandro Olvera Guerrero quien tiene un posgrado en Ciencias y Tecnologías de la Información. Él impartió la materia de procesamiento de señales biomédicas  en la Universidad Politécnica de Chiapas y fue allí donde explicó la importancia del cálculo de las dimensaiones fractales aportados a las ciencias médicas.
+Con la base de datos, se procedió a calcular la dimensión fractal de los pulmones sanos y pulmones dañados con una programación en Matlab la cuál fue desarrollado por el Doctor Omar Alejandro Olvera Guerrero quien tiene un posgrado en Ciencias y Tecnologías de la Información. Él impartió la materia de procesamiento de señales biomédicas  en la Universidad Politécnica de Chiapas y fue allí donde explicó la importancia del cálculo de las dimensaiones fractales aportados a las ciencias médicas.
   <br>
 El código y los archivos excel, se encuentran en el repositorio siguiente: "https://github.com/Nancyfsg/CdeCiencia".
-  
+ 
 
 
 <h3><b> Resultados </b></h3>
-Se cálculo el promedio de los pulmones sanos arrojando 1.84615929 además de obtener un valor mínimo de 1.5742 y teniendo un 2.081 como valor máximo de DF de pulmones dañados.
+Se cálculo el promedio de los pulmones sanos arrojando 1.84615929 además de obtener un valor mínimo de 1.5742 y un 2.081 como valor máximo de DF de pulmones dañados.
 
-Inició la comparación del promedio de los pulmones sanos con cada resultado obtenido de cada estudio de CT de pacientes con COVID-19. En donde se demostró que 189 de las 349 muestras de CT, estuvieron por encima del promedio haciendo que este sea un 54.15% del total de las muestras.
+Se comparo del promedio de los pulmones sanos con cada resultado obtenido de cada estudio de CT de pacientes con COVID-19. En donde se demostró que 189 de las 349 muestras de CT, estuvieron por encima del promedio haciendo que este sea un 54.15% del total de las muestras.
   <br>
   <img src="valoresimportantes.JPG">
   <br>
@@ -162,30 +155,30 @@ Se destacó el Grupo de mortalidad de acuerdo a su descripción, ya que en estos
   <br>
   <img src="Grupomortalidad.JPG">
 <br>
-A comparación del grupo de sobreviviente de acuerdo a su descripción, estos presentaron un DF menor al rango del promedio:
+El grupo de sobreviviente de acuerdo a su descripción, presentaron un DF menor al rango del promedio:
 <br>
   <img src="gruporecuperación.JPG">
   <br>
-Pacientes quienes de acuerdo a su descripción mostraron ser asintomáticos, la mayoria de estos, siempre estaban cerca al rango del promedio de covid:
+Pacientes quienes de acuerdo a su descripción mostraron ser asintomáticos, la mayoria de estos, siempre estaban cerca al rango del promedio:
   <br>
   <img src="Grupoasintomatico.JPG">
   <br>
- Fue raro encontrar pacientes siendo niños y la mayoría de estos, manejaban debajo del rango:
+ Fue raro encontrar pacientes siendo niños y la mayoría de estos, pertenecieron inferior del rango:
   <br>
   <img src="Gruponiños.JPG">
   <br>
- Por último, los pacientes con covid19 embarazadas fue también un resultado que destacar por el hecho de estar en esta situación y aunque 2 de 3 se acercó al rango normal de covid:
+ Por último, los pacientes con covid19 estando embarazada arrojaron un resultado que destacó, 2 de 3 se acercaron al rango normal de covid:
 <br>
   <img src="grupoembarazada.JPG">
   <br>
 <h3><b>Conclusiones </b></h3>
 
-A nuestra consideración como equipo y como antes se explicó, podría existir una posibilidad de hacer notar una mejoría hacia la recuperación del paciente y poder observar también un posible grado de mortalidad, esto de acuerdo a la comparación del promedio de las pruebas de pulmón con covid. 
+Podría existir una posibilidad de hacer notar una mejoría hacia la recuperación del paciente y poder observar también un posible grado de mortalidad, esto de acuerdo a la comparación del promedio de las pruebas de pulmón con covid. 
   <br>
-  Con esto, se podría comprobar la hipótesis y concluyendo que, si la DF de la imagen es mayor al del promedio, podría estar en una situación severa, ya que los alveolos estarían  llenos de flujos provocando que sean propensos a nuevos patógenos respiratorios como: neumonía  entre otras infecciones respiratorias provocando riesgo de sufrir más complicaciones. 
+  Con esto, se podría comprobar la hipótesis donde la DF de la imagen es mayor al del promedio, podría estar en una situación severa, dado que los alveolos estarían  llenos de flujos provocando que sean propensos a nuevos patógenos respiratorios como: neumonía  entre otras infecciones respiratorias provocando riesgo de sufrir más complicaciones. 
   
 
-Hay que agregar que el cálculo de las dimensiones fractales en las ciencias médicas mediante muestras de tomografías aún no es un campo completamente amplio porque podemos tener una aproximación en cuanto a la probabilidad de que lo que estamos viendo sea coninfecciones de infecciones respiratorias a consecuencia del SARS-COV-2 o también que nuestras tomas no sean completamente clara a causa de opacidad focal, tenue, aumento de densidad difuso tenue y sea inapropiado para utilizarlo con la DF; por lo que se sugiere seguir investigando y probando diferentes métodos químicos o del gabinete de imagenología ya que no debemos descartar ciertos posibles diagnósticos porque cada uno muestra diferentes resultados desde sus diferentes perspectivas y con ello tendríamos mejores cuadros clínicos.
+Se sugiere agregar que el cálculo de las dimensiones fractales en las ciencias médicas mediante muestras de tomografías aún no es un campo completamente amplio porque se puede tener una aproximación en cuanto a la probabilidad de que lo que sean coninfecciones respiratorias a consecuencia del SARS-COV-2 o también que las  CT no sean completamente clara a causa de opacidad focal, tenue, aumento de densidad difuso tenue y  no sea apropiado para utilizarlo con la DF; por lo que se sugiere seguir investigando y probando diferentes métodos químicos-biologicos y complementar con el  gabinete de imagenología para no descartar ciertos posibles diagnósticos donde cada uno muestra resultados desde sus diferentes perspectivas y con ello tendríamos mejores cuadros clínicos.
  
 
 <h3><b>Referencias bibliográficas.</b></h3>
@@ -205,13 +198,22 @@ Hay que agregar que el cálculo de las dimensiones fractales en las ciencias mé
 [7] U. (s. f.-a). GitHub - UCSD-AI4H/COVID-CT: COVID-CT-Dataset: A CT Scan Dataset about COVID-19. GitHub. Recuperado 19 de agosto de 2021, de
     https://github.com/UCSD-AI4H/COVID-CT
    <br>
+[8] Juarros, V. M., Belli, S., & Márquez, I. (2020). La COVID-19, pantallas y reflexividad social: Cómo el brote de un patógeno está afectando nuestra cotidianidad. RES. Revista Española de Sociología, 29(3), 759-768.
+  <br>
+ [9] Raquel Sánchez-Oro, Julio Torres Nuez, Gloria Martínez-Sanz
+Med Clin (Barc) 2020 Jul 10; 155(1): 36–40. Spanish. Published online 2020 Apr 3. doi: 10.1016/j.medcli.2020.03.004 PMCID: PMC7128716
+ <br>
+[10] Zhu, X. (2020, 1 agosto). Co-infection with respiratory pathogens among COVID-2019 cases. ScienceDirect. https://www.sciencedirect.com/science/article/abs/pii/S0168170220303531?dgcid=rss_sd_all
 
  
-<h4><b>Equipo </b></h4>
+<h4><b>Equipo 14_C</b></h4>
 
-* Estudiante 1: Nancy Solís Grajales.
+   Nancy Solís Grajales.
   <br>
-* Estudiante 2: Lilián Michelle Lopez Carrasco
+  Estudiante de ingeniería biomédica,UPCH.
+  <br>
+ Lilián Michelle Lopez Carrasco
+  <br>
  
  </body>
 </html>

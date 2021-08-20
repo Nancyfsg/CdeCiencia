@@ -8,7 +8,7 @@
  <h2><b>Coinfección por pátogenos respiratorios y su impacto en el pronóstico de mortalidad de pacientes con COVID-19. </b></h2>
     
  
-  <body style="background-color:#FF0000;">
+  <body style="background-color:rgb(255,0,0);">
   <h3><b>Introducción</b> </h3>
 <p align= justify>
  Para abordar el tema principal, es necesario tener conceptos que seran la clave para una comprensión idónea. 

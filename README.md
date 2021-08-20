@@ -214,6 +214,6 @@ Med Clin (Barc) 2020 Jul 10; 155(1): 36–40. Spanish. Published online 2020 Apr
   <br>
  Lilián Michelle Lopez Carrasco
   <br>
- 
+ Estudiante de 5to semestre del colegio Cristóbal Colón,Veracruz.
  </body>
 </html>

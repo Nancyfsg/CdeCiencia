@@ -221,7 +221,7 @@ Med Clin (Barc) 2020 Jul 10; 155(1): 36–40. Spanish. Published online 2020 Apr
   Se añade un vídeo realizado por fungi amigos, en donde se explica el proyecto y nuestra experiencia:
   <br>
  https://www.youtube.com/watch?v=Sj_H1AERRhc&ab_channel=michellel%C3%B3pez
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Sj_H1AERRhc&ab_channel=michellel%C3%B3pez" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sj_H1AERRhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   
  </body>
 </html>
